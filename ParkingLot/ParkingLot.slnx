@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ParkingLot.BLL/ParkingLot.BLL.csproj" Id="d61642a2-861c-45a8-9731-004ee275c0f0" />
+  <Project Path="ParkingLot.Common/ParkingLot.Common.csproj" Id="1c55390f-49a4-4d91-83a4-cc7a4c653b49" />
+  <Project Path="ParkingLot.DAL/ParkingLot.DAL.csproj" Id="ccef8e2b-56ba-470e-874b-62d6251f23e4" />
+  <Project Path="ParkingLot.UI/ParkingLot.UI.csproj" />
+</Solution>
